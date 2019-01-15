@@ -33,6 +33,7 @@ A list of community-built React Native contributions.
 - [Alt/Flux Demo](https://github.com/mrblueblue/react-native-alt-demo)
 - [Flux/Webpack Electric Cloud app](https://github.com/artyomtrityak/ec-deploy-mobile)
 - [Embedded (hybrid) App Examples](https://github.com/dsibiski/react-native-embedded-app-example) - A collection of examples for using React Native in an existing iOS application
+- [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - A beautiful, Open Source Android and iOS app for searching song lyrics. Built with [Exponent](https://expo.io/@skempin/lyrics-king).
 
 ## Tools
 
